@@ -1,5 +1,4 @@
 import styles from "./Profile.module.css";
-console.log(styles);
 export const Profile = ({ username, tag, location, avatar = "https://www.fillmurray.com/640/360", stats }) => {
   return (<div className={styles.profile}>
     <div className={styles.description}>
