@@ -7,6 +7,7 @@ import data from './statistics/data.json';
 import friends from './friends/friends.json';
 import transactions from './transactions/transactions.json';
 
+
 export const App = () => {
   return (
     <div
@@ -32,3 +33,5 @@ export const App = () => {
     </div>
   );
 };
+
+
