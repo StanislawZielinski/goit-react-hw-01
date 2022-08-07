@@ -5,10 +5,11 @@
     width: 250px;
     font-size: 18px;
     border-style: solid;
-    background-color: yellow;
+    background-color: #8c8c8a;
     border-top: 0;
     padding-inline-start: 0px;
     margin-top: 0;
+    margin-bottom: 0;
     padding-top: 2px;
 }
 .container {
